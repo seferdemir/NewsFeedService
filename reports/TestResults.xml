@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="01/29/2022 20:54:58">
+  <assembly name="/projects/challenge/NewsFeedService.Tests/bin/Debug/netcoreapp3.0/NewsFeedService.Tests.dll" run-date="2022-01-29" run-time="20:54:58" total="2" passed="2" failed="0" skipped="0" time="11.365" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for NewsFeedService.Tests.IntegrationTests" time="11.365">
+      <test name="NewsFeedService.Tests.IntegrationTests.Test1" type="NewsFeedService.Tests.IntegrationTests" method="Test1" time="3.2147902" result="Pass">
+        <traits />
+      </test>
+      <test name="NewsFeedService.Tests.IntegrationTests.Test2" type="NewsFeedService.Tests.IntegrationTests" method="Test2" time="8.1502528" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
